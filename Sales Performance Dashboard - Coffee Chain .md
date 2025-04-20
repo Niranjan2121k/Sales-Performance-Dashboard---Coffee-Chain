@@ -45,7 +45,7 @@ This line chart visualizes the revenue trends for the coffee chain over a six-mo
 ## Interpretation:
 The chart demonstrates a positive revenue trajectory after a slow start.
 
-<img width="933" alt="Screenshot 2025-04-20 at 9 01 55 PM" src="https://github.com/user-attachments/assets/ef654983-56b1-42d9-8ad6-ac5856606e7c" />
+![](Picture 1.png)
 
 ---
 
