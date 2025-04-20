@@ -63,7 +63,7 @@ Revenue remains remarkably consistent across all days, indicating stable custome
 
 This chart highlights a balanced sales distribution, useful for staff scheduling, inventory planning, and understanding customer behavior by day.
 
-<img width="1063" alt="Screenshot 2025-04-20 at 9 02 44 PM" src="https://github.com/user-attachments/assets/e72d6e56-4b5d-4477-a852-57cc7a30582f" />
+![](Picture_2.png)
 
 ---
 
@@ -84,7 +84,7 @@ The coffee chain experiences strong morning demand, likely due to commuter and w
 - Launching promotions during slower hours (post-lunch).
 - Planning inventory to match peak demand times.
 
-<img width="1016" alt="Screenshot 2025-04-20 at 9 06 03 PM" src="https://github.com/user-attachments/assets/3595d5ad-e118-4e2c-b025-9bf4f523a548" />
+![](Picture_3.png)
 
 ---
 
@@ -108,7 +108,7 @@ This horizontal bar chart breaks down the total revenue by each product category
 - Explore cross-selling strategies with lower-performing products (e.g., pair packaged chocolate with hot beverages).
 - Consider promotional campaigns or repositioning to boost the appeal of low-revenue products.
 
-<img width="1103" alt="Screenshot 2025-04-20 at 9 07 10 PM" src="https://github.com/user-attachments/assets/18e91c69-09c2-4dcc-b2e6-59e67235e13c" />
+![](Picture_4.png)
 
 ---
 
@@ -172,6 +172,5 @@ These insights can guide strategic decisions in areas such as staffing, inventor
 
 # Final Dasboard
 
-<img width="1710" alt="Screenshot 2025-04-20 at 9 34 18 PM" src="https://github.com/user-attachments/assets/5c4adb0b-11f9-40f8-bf2a-2d8ac7a27fc6" />
-
+![](Picture_5.png)
 
