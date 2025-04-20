@@ -108,7 +108,7 @@ This horizontal bar chart breaks down the total revenue by each product category
 - Explore cross-selling strategies with lower-performing products (e.g., pair packaged chocolate with hot beverages).
 - Consider promotional campaigns or repositioning to boost the appeal of low-revenue products.
 
-
+<img width="1103" alt="Screenshot 2025-04-20 at 9 07 10 PM" src="https://github.com/user-attachments/assets/18e91c69-09c2-4dcc-b2e6-59e67235e13c" />
 
 ---
 
@@ -155,3 +155,23 @@ The table below presents the number of transactions and total revenue for each p
 ## Overall Performance
 - **Total Transactions**: 144,919
 - **Total Revenue**: $629,499
+
+# ✅ Conclusion
+
+This dashboard offers a comprehensive view of the coffee chain’s sales performance across multiple dimensions—time, product types, and customer behavior. Key findings include:
+
+- 📈 A strong upward revenue trend from March to June, indicating successful growth strategies.
+- ⏰ Peak revenue hours between 7 AM and 10 AM, driven by commuter and workday demand.
+- 📊 Steady sales performance throughout the week, with slightly higher activity on Mondays.
+- 🛍️ Coffee, Tea, and Bakery items dominate product revenue, while niche products offer opportunities for bundling and promotion.
+- 🧾 High-performing individual items like Barista Espresso and Brewed Chai Tea are central to overall revenue generation.
+
+These insights can guide strategic decisions in areas such as staffing, inventory management, marketing campaigns, and product development. Overall, the analysis highlights a well-performing business with clear areas to optimize for even greater efficiency and profitability.
+
+---
+
+# Final Dasboard
+
+<img width="1710" alt="Screenshot 2025-04-20 at 9 34 18 PM" src="https://github.com/user-attachments/assets/5c4adb0b-11f9-40f8-bf2a-2d8ac7a27fc6" />
+
+
